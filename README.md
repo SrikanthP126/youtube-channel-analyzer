@@ -38,6 +38,4 @@ To run this script, you need the following:
 
 3. Run the script:
    ```bash
-    python youtube_analyzer.py
-
-  
+    python youtube_analyzer.py 
